@@ -1,6 +1,5 @@
 # 0xRev_Workspace
-A well curated workspace to learn Assembly Language 
-
+A well curated workspace to learn Basics of Reverse Engineering 
 1. Dedicated Notes and Binaries . 
 2. Dedicated Notes on GNU Debugger and Binaries . 
 3. Open Source Links of Blogs and videos . 
