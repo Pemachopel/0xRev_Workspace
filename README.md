@@ -1,4 +1,4 @@
-# 0xASM_Workspace
+# 0xRev_Workspace
 A well curated workspace to learn Assembly Language 
 
 1. Dedicated Notes and Binaries . 
