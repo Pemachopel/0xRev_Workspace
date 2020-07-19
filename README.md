@@ -1,5 +1,5 @@
 # 0xRev_Workspace
-A well curated workspace to learn Basics of Reverse Engineering 
+A well curated workspace to learn Basics of Reverse Engineering focused on *NIX system.
 1. Dedicated Notes , Binaries and snaps  on x86  . 
 2. Dedicated Notes , Binaries and snaps on GNU Debugger . 
 3. Dedicated Notes,  Binaries and snaps on udis86(disassembler) 
