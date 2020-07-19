@@ -1,0 +1,10 @@
+#Are you new to x86 Assembly ? 
+
+ASM Workspace is dedicated to all the x86 lovers out there ! This guide  contains : 
+
+*Dedicated Notes and resources which are pretty simple and well guided . 
+*Binaries with source code and writeup with snapshots for practice .
+*If you are organizing a CTF Event , you can also pull off binaries and writeups .
+*Videos 
+*The guide will lead you to Reverse Engineering and it's various concepts .
+*This guide makes sure that you learn and understand x86 at the best way possible .  
